@@ -1,6 +1,6 @@
 # study-timer-rp2040
 
-
+# Source build is deprecated
 # Install (building from source (recommended)):
 `git clone https://github.com/malawarecreator/study-timer-rp2040.git`
 
